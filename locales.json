@@ -1,0 +1,24 @@
+{
+    "en": {
+        "tray_title": "DPI Changer",
+        "menu_toggle_dpi": "Toggle DPI",
+        "menu_configure_dpi": "Configure DPI",
+        "menu_language": "Language",
+        "menu_exit": "Exit",
+        "notify_dpi_changed": "DPI changed to {dpi}%",
+        "menu_language_english": "English",
+        "menu_language_ukrainian": "Ukrainian",
+        "notify_language_switched": "Language switched to English"
+    },
+    "uk": {
+        "tray_title": "Зміна DPI",
+        "menu_toggle_dpi": "Перемкнути DPI",
+        "menu_configure_dpi": "Налаштувати DPI",
+        "menu_language": "Мова",
+        "menu_exit": "Вийти",
+        "notify_dpi_changed": "DPI змінено на {dpi}%",
+        "menu_language_english": "Англійська",
+        "menu_language_ukrainian": "Українська",
+        "notify_language_switched": "Мову змінено на українську"
+    }
+}
