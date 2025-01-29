@@ -18,7 +18,7 @@ DPI Changer is a lightweight system tray application that allows users to quickl
 3. The application will be installed in `%LOCALAPPDATA%\DPI Changer` and added to the Windows startup.
 4. Ensure that the `DisplayConfig` PowerShell module is installed. The installer attempts to install it automatically.
 
-## Usage.
+## Usage🚀
 1. Right-click the tray icon to open the menu.
 2. Select **Toggle DPI** to switch between enabled DPI values.
 3. Go to **Configure DPI** to enable or disable specific DPI values.
