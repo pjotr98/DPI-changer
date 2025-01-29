@@ -13,7 +13,7 @@ DPI Changer is a lightweight system tray application that allows users to quickl
 - Custom tray icon.
 
 ## Installation
-1. Download the latest `DPI_Changer_Installer.exe` from the [Releases](https://github.com/your-repo/DPI_Changer/releases) page.
+1. Download the latest `DPI_Changer_Installer.exe` from the [Releases](https://github.com/pjotr98/DPI-changer/releases) page.
 2. Run the installer and follow the on-screen instructions.
 3. The application will be installed in `%LOCALAPPDATA%\DPI Changer` and added to the Windows startup.
 4. Ensure that the `DisplayConfig` PowerShell module is installed. The installer attempts to install it automatically.
