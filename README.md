@@ -1,4 +1,5 @@
 # DPI Changer
+# ![DPI Changer](https://raw.githubusercontent.com/pjotr98/DPI-changer/refs/heads/main/icon.ico)
 
 ## Overview
 DPI Changer is a lightweight system tray application that allows users to quickly switch between predefined DPI scaling values on Windows. The application supports multiple DPI values and provides an easy way to configure them through a tray menu.
