@@ -172,6 +172,8 @@ cython_debug/
 
 
 /release/
+/output/*
 /icon.png
 /icon.psd
 /setup_script.iss
+/build.bat
