@@ -103,7 +103,3 @@ Contributions, bug reports, feature suggestions, and new translations are welcom
 ## License 🪪
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
-
-## Credits 👨‍💻🤖
-
-Developed by Oleksandr Zheliazkov and Assistant Maryna (ChatGPT).
